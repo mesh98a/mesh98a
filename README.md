@@ -26,7 +26,7 @@
   <p>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mesh98a&theme=default&layout=compact&hide_border=true&bg_color=ffffff00" />
    <br>
-   <img src="https://github-readme-stats.vercel.app/api?username=mesh98a&theme=default&show_icons=true&hide_border=true&count_private=true"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=mesh98a&theme=default&show_icons=true&hide_border=true&count_private=true&layout=compact"/>
   </p>
 </details>
 <!---
