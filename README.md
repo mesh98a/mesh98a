@@ -12,7 +12,7 @@
   <summary><h2><b>📚 My stack</b></h2></summary>
   <p>
     <h3>Langs</h3>
-    <img src="https://skillicons.dev/icons?i=py,java,postgres,sqlite,js,html,css,go&perline=7" />
+    <img src="https://skillicons.dev/icons?i=go,py,java,js,html,css,postgres,mysql&perline=7" />
     <h3>Frameworks / Tools</h3>
     <img src="https://skillicons.dev/icons?i=git,docker,sklearn,tensorflow,nodejs,threejs,htmx,tailwind,spring,maven,webpack&perline=7" />
     <h3>Software</h3>
