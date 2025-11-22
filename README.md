@@ -20,7 +20,7 @@
     <br>
   </p>
 </details>
-
+<!---
 <details align="left">
   <summary><h2><b>⭐GitHub stats</b></h2></summary>
   <p>
@@ -29,6 +29,7 @@
    <img src="https://github-readme-stats.vercel.app/api?username=mesh98a&theme=default&show_icons=true&hide_border=true&count_private=true&layout=compact"/>
   </p>
 </details>
+--->
 <!---
 mesh98a/mesh98a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
